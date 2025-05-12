@@ -36,7 +36,8 @@ function Nav() {
                 className={`circle-linkPagination ${
                   isActive ? "active" : ""
                 }`}></div>
-              <h4 className={`linkName ${isHovered ? "h4TextAnim" : ""}`}>
+              <h4 
+                className={`linkName ${isHovered ? "h4TextAnim" : ""}`}>
                 {name}
               </h4>
             </div>
