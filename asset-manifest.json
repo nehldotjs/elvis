@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/elvis/static/css/main.6afdd0ee.css",
+    "main.css": "/elvis/static/css/main.f4d9ebcd.css",
     "main.js": "/elvis/static/js/main.d03e6c50.js",
     "index.html": "/elvis/index.html",
-    "main.6afdd0ee.css.map": "/elvis/static/css/main.6afdd0ee.css.map",
+    "main.f4d9ebcd.css.map": "/elvis/static/css/main.f4d9ebcd.css.map",
     "main.d03e6c50.js.map": "/elvis/static/js/main.d03e6c50.js.map"
   },
   "entrypoints": [
-    "static/css/main.6afdd0ee.css",
+    "static/css/main.f4d9ebcd.css",
     "static/js/main.d03e6c50.js"
   ]
 }
