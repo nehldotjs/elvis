@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/elvis/static/css/main.0c28a666.css",
-    "main.js": "/elvis/static/js/main.56ef212c.js",
+    "main.css": "/elvis/static/css/main.3bca5a09.css",
+    "main.js": "/elvis/static/js/main.9f40610e.js",
     "static/media/2.jpg": "/elvis/static/media/2.142cf40b40c1898a287d.jpg",
     "index.html": "/elvis/index.html",
-    "main.0c28a666.css.map": "/elvis/static/css/main.0c28a666.css.map",
-    "main.56ef212c.js.map": "/elvis/static/js/main.56ef212c.js.map"
+    "main.3bca5a09.css.map": "/elvis/static/css/main.3bca5a09.css.map",
+    "main.9f40610e.js.map": "/elvis/static/js/main.9f40610e.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c28a666.css",
-    "static/js/main.56ef212c.js"
+    "static/css/main.3bca5a09.css",
+    "static/js/main.9f40610e.js"
   ]
 }
